@@ -1,0 +1,27 @@
+[
+ {
+  "FIRST_NAME": "Svea",
+  "LAST_NAME": "Specimen",
+  "ENROLLMENT_OPTION": "enrolled",
+  "UNIVERSITY_NAME": "Trent University",
+  "UNIVERSITY_OPTION": "Trent University",
+  "Has_Multiple_Campuses": "No",
+  "SCHOOL_NAME": "York University",
+  "SCHOOL_OPTION": "York University",
+  "SCHOOL_COUNTRY": "CA",
+  "DEGREE_OPTION": "Master's",
+  "GRADUATION_YEAR": 2024,
+  "GRADUATION_MONTH": "Sep",
+  "PROGRAM_START_YEAR": "2022",
+  "PROGRAM_START_MONTH": "Sep",
+  "CURRENT_GPA": 2.51,
+  "CITIZENSHIP": "Sweden",
+  "CONSENT_TO_INFORM_SCHOOL": "Yes",
+  "CONSENT_TO_INFORM_PARTNER": "No",
+  "HEAR_ABOUT_US": "Youtube",
+  "ADMISSION_PARTNER": "4stay",
+  "SALUTATION": "Mr.",
+  "COUNTRY_CODE": 91,
+  "ALTERNATE_EMAIL": "NA",
+  "PHONE_NUMBER": 9876543210
+}]
