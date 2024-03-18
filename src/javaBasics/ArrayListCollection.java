@@ -15,7 +15,7 @@ public class ArrayListCollection {
 		list.add("Sanjay");  
 		list.add("Ajay");  
 		
-		
+		//test
 		
 		Iterator<String> i = list.iterator();
 		
